@@ -13,7 +13,18 @@
 
 ## Hakkımda
 
-Fikirleri yapay zekayla gerçek, çalışan ürünlere dönüştürüyorum. Her şeyin sade, hızlı ve güzel olmasını seviyorum.
+Merhaba, ben Burak. Fikirleri yapay zekayla gerçek, çalışan ürünlere dönüştürüyorum. Uygulamalar, günlük işleri kolaylaştıran araçlar ve sade arayüzlü web projeleri geliştiriyorum. Her şeyin sade, hızlı ve güzel olmasını seviyorum.
+
+Şu sıralar yapay zekayla yeni ürünler üzerinde çalışıyor, 3D oyun geliştirmeyi öğreniyor ve Windows'u minimal, şeffaf bir tarza göre kişiselleştiriyorum.
+
+<br/>
+
+## Birlikte çalışalım
+
+Aklında bir fikir var ama nereden başlayacağını bilmiyorsan, projen yarım kaldıysa ya da bir uygulamaya, araca veya siteye ihtiyacın varsa bana yazabilirsin. Fikri birlikte netleştirip çalışan bir ürüne çevirmene yardımcı olabilirim.
+
+E-posta: burakcnkkaya@gmail.com
+Projelerimi desteklemek istersen: [Buy Me a Coffee](https://buymeacoffee.com/burakkayadev)
 
 <br/>
 
